@@ -1,0 +1,588 @@
+fileFormatVersion: 2
+guid: 47d58bea9b750d841b4777c528b2f8c2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3651642061920035195
+    second: bomb animation spritesheet_0
+  - first:
+      213: -7442405673673965817
+    second: bomb animation spritesheet_1
+  - first:
+      213: 9170154458328022493
+    second: bomb animation spritesheet_2
+  - first:
+      213: -1063394849627344296
+    second: bomb animation spritesheet_3
+  - first:
+      213: -1509602279571038063
+    second: bomb animation spritesheet_4
+  - first:
+      213: -4887791041686525991
+    second: bomb animation spritesheet_5
+  - first:
+      213: 3149008737798318500
+    second: bomb animation spritesheet_6
+  - first:
+      213: -6382284253412532127
+    second: bomb animation spritesheet_7
+  - first:
+      213: -5770434627050579286
+    second: bomb animation spritesheet_13
+  - first:
+      213: -5442963853153323626
+    second: bomb animation spritesheet_16
+  - first:
+      213: 6706735579460594533
+    second: bomb animation spritesheet_17
+  - first:
+      213: -3429014433221013081
+    second: bomb animation spritesheet_19
+  - first:
+      213: -8192007985963543654
+    second: bomb animation spritesheet_20
+  - first:
+      213: 2199647613618948276
+    second: bomb animation spritesheet_21
+  - first:
+      213: 5884745134663861933
+    second: bomb animation spritesheet_22
+  - first:
+      213: -4038167965852543173
+    second: bomb animation spritesheet_23
+  - first:
+      213: 5895365876876430262
+    second: bomb animation spritesheet_24
+  - first:
+      213: -2768751328817545597
+    second: bomb animation spritesheet_25
+  - first:
+      213: -7976305944674151683
+    second: bomb animation spritesheet_26
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bomb animation spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 810
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e916454e2c25dc0800000000000000
+      internalID: -3651642061920035195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb animation spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 787
+        width: 129
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70fbf4aa87347b890800000000000000
+      internalID: -7442405673673965817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb animation spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 811
+        width: 75
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd3b10f4eee24f70800000000000000
+      internalID: 9170154458328022493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb animation spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 499
+        width: 202
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8527bf3b4001e31f0800000000000000
+      internalID: -1063394849627344296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb animation spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 511
+        width: 205
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1906c0699b0dc0be0800000000000000
+      internalID: -1509602279571038063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb animation spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 484
+        width: 208
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d720f7b1f31b2cb0800000000000000
+      internalID: -4887791041686525991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb animation spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 195
+        width: 220
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a9e11b43c683bb20800000000000000
+      internalID: 3149008737798318500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb animation spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 215
+        width: 258
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160e6cb49429d67a0800000000000000
+      internalID: -6382284253412532127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb animation spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 219
+        width: 229
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa590f974c4befa0800000000000000
+      internalID: -5770434627050579286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb animation spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 0
+        width: 241
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695318fa635b674b0800000000000000
+      internalID: -5442963853153323626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb animation spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 135
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56be838c97c131d50800000000000000
+      internalID: 6706735579460594533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb animation spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 99
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a19c2a6a81b960d0800000000000000
+      internalID: -3429014433221013081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb animation spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 77
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93da7fc324205e80800000000000000
+      internalID: -8192007985963543654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb animation spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 82
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b80bc0b9d7b68e10800000000000000
+      internalID: 2199647613618948276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb animation spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 72
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da609517580daa150800000000000000
+      internalID: 5884745134663861933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb animation spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 72
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b375ff351ab85f7c0800000000000000
+      internalID: -4038167965852543173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb animation spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 69
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbcd20b70c80d150800000000000000
+      internalID: 5895365876876430262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb animation spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 58
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e707ef55b6399d0800000000000000
+      internalID: -2768751328817545597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb animation spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 57
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df25cdbe0087e4190800000000000000
+      internalID: -7976305944674151683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

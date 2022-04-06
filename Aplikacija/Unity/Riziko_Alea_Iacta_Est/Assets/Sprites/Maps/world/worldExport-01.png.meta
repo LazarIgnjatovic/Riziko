@@ -1,0 +1,1140 @@
+fileFormatVersion: 2
+guid: 02c77ef82d553be46a054bbd02b38dac
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 266691275404625196
+    second: Alaska
+  - first:
+      213: 2672143777284970868
+    second: Northwest Territory
+  - first:
+      213: -5157551473908958104
+    second: Greenland
+  - first:
+      213: 8701196268125714439
+    second: Iceland
+  - first:
+      213: 3736542681601957991
+    second: Eastern Europe
+  - first:
+      213: -4556674975182489114
+    second: Ural
+  - first:
+      213: 8039147723663441006
+    second: Siberia
+  - first:
+      213: -7583581232945666337
+    second: Yakutsk
+  - first:
+      213: 3147840252100693305
+    second: Alberta
+  - first:
+      213: 7387277075522866588
+    second: Ontario
+  - first:
+      213: -4657122375611542267
+    second: Quebec
+  - first:
+      213: -4281856788607609803
+    second: Great Britain
+  - first:
+      213: -3717938049161957033
+    second: Scandinavia
+  - first:
+      213: -4700942111022266599
+    second: Kamchatka
+  - first:
+      213: 7514981344308870172
+    second: Western US
+  - first:
+      213: -5557776509388721628
+    second: Eastern US
+  - first:
+      213: -2854745148007235317
+    second: Western Europe
+  - first:
+      213: -3090640521560807182
+    second: Central Europe
+  - first:
+      213: 5705029528163620726
+    second: Afghanistan
+  - first:
+      213: -113868702847615619
+    second: Irkutsk
+  - first:
+      213: -5443140603443776514
+    second: Mongolia
+  - first:
+      213: 6192080569069147186
+    second: Central America
+  - first:
+      213: 6443506461182889187
+    second: Venezuela
+  - first:
+      213: -1853353135238237266
+    second: Southern Europe
+  - first:
+      213: 7643676010690424105
+    second: China
+  - first:
+      213: 7219865873758625683
+    second: Japan
+  - first:
+      213: -4990240716665971751
+    second: Peru
+  - first:
+      213: -3270780369331170203
+    second: Brazil
+  - first:
+      213: 4021219258167408073
+    second: North Africa
+  - first:
+      213: -327340502336455518
+    second: Egypt
+  - first:
+      213: -779843678263315878
+    second: Middle East
+  - first:
+      213: -702400952727013789
+    second: New Guinea
+  - first:
+      213: 7103181257092163878
+    second: Argentina
+  - first:
+      213: 5261763561116970485
+    second: South Africa
+  - first:
+      213: 5014900010250234597
+    second: Congo
+  - first:
+      213: -3791948084221465644
+    second: India
+  - first:
+      213: 6276861018740872962
+    second: Siam
+  - first:
+      213: 1440312383581464255
+    second: Indonesia
+  - first:
+      213: -1402613405447134107
+    second: Eastern Australia
+  - first:
+      213: 6797168611619068218
+    second: Madagascar
+  - first:
+      213: -4210178958452057590
+    second: East Africa
+  - first:
+      213: -2925095418167249170
+    second: Western Australia
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Alaska
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 3124
+        width: 332
+        height: 334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25403f4d4a73b300800000000000000
+      internalID: 266691275404625196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Northwest Territory
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 3231
+        width: 569
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47957d99b9c551520800000000000000
+      internalID: 2672143777284970868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Greenland
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 3037
+        width: 467
+        height: 455
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c3dd6a242bc68b0800000000000000
+      internalID: -5157551473908958104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iceland
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 3257
+        width: 198
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708769aa7ebd0c870800000000000000
+      internalID: 8701196268125714439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Europe
+      rect:
+        serializedVersion: 2
+        x: 2187
+        y: 2635
+        width: 508
+        height: 765
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76068f895cddad330800000000000000
+      internalID: 3736542681601957991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ural
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 2826
+        width: 295
+        height: 611
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9f55b904073c0c0800000000000000
+      internalID: -4556674975182489114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Siberia
+      rect:
+        serializedVersion: 2
+        x: 3242
+        y: 2775
+        width: 412
+        height: 712
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c79dde24ac09f60800000000000000
+      internalID: 8039147723663441006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yakutsk
+      rect:
+        serializedVersion: 2
+        x: 3838
+        y: 3129
+        width: 342
+        height: 327
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd664f45c05b1c690800000000000000
+      internalID: -7583581232945666337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alberta
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 2824
+        width: 310
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d432408006fab20800000000000000
+      internalID: 3147840252100693305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ontario
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 2799
+        width: 273
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d4de75c51e48660800000000000000
+      internalID: 7387277075522866588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quebec
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 2802
+        width: 288
+        height: 358
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5059626bfd39e5fb0800000000000000
+      internalID: -4657122375611542267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Britain
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 2608
+        width: 247
+        height: 305
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534d2ffdfe9c394c0800000000000000
+      internalID: -4281856788607609803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scandinavia
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 2751
+        width: 307
+        height: 366
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751fac2fa0b376cc0800000000000000
+      internalID: -3717938049161957033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kamchatka
+      rect:
+        serializedVersion: 2
+        x: 3778
+        y: 2468
+        width: 482
+        height: 586
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917c7d28e06e2ceb0800000000000000
+      internalID: -4700942111022266599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Western US
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 2436
+        width: 337
+        height: 332
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1cb73177b39a4860800000000000000
+      internalID: 7514981344308870172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern US
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 2342
+        width: 457
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 422ffd806bfced2b0800000000000000
+      internalID: -5557776509388721628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Western Europe
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 2155
+        width: 273
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0142c8b968e168d0800000000000000
+      internalID: -2854745148007235317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Central Europe
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 2240
+        width: 314
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8a0ff02d6db15d0800000000000000
+      internalID: -3090640521560807182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Afghanistan
+      rect:
+        serializedVersion: 2
+        x: 2094
+        y: 2143
+        width: 388
+        height: 404
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6779e4b11265c2f40800000000000000
+      internalID: 5705029528163620726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irkutsk
+      rect:
+        serializedVersion: 2
+        x: 2819
+        y: 2317
+        width: 375
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7dbbbf94057b6ef0800000000000000
+      internalID: -113868702847615619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mongolia
+      rect:
+        serializedVersion: 2
+        x: 3363
+        y: 2276
+        width: 412
+        height: 332
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef37a3dc5741674b0800000000000000
+      internalID: -5443140603443776514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Central America
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1990
+        width: 294
+        height: 381
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23417f37870bee550800000000000000
+      internalID: 6192080569069147186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Venezuela
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1976
+        width: 423
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec8dbebcfeeb6950800000000000000
+      internalID: 6443506461182889187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Southern Europe
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 1801
+        width: 311
+        height: 347
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3b4ca94219746e0800000000000000
+      internalID: -1853353135238237266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: China
+      rect:
+        serializedVersion: 2
+        x: 2910
+        y: 1639
+        width: 555
+        height: 530
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92da06375dac31a60800000000000000
+      internalID: 7643676010690424105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Japan
+      rect:
+        serializedVersion: 2
+        x: 3973
+        y: 2009
+        width: 194
+        height: 397
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f195b72cd123460800000000000000
+      internalID: 7219865873758625683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Peru
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1498
+        width: 402
+        height: 419
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db1f63f18a1fbab0800000000000000
+      internalID: -4990240716665971751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brazil
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1322
+        width: 587
+        height: 554
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564d1bb559adb92d0800000000000000
+      internalID: -3270780369331170203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: North Africa
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 1196
+        width: 497
+        height: 549
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c537072c9d3ec730800000000000000
+      internalID: 4021219258167408073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Egypt
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 1627
+        width: 349
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac33a52c8d057bf0800000000000000
+      internalID: -327340502336455518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Middle East
+      rect:
+        serializedVersion: 2
+        x: 2254
+        y: 1456
+        width: 526
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52f7c07e407d25f0800000000000000
+      internalID: -779843678263315878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Guinea
+      rect:
+        serializedVersion: 2
+        x: 3761
+        y: 1547
+        width: 283
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3667fc21e029046f0800000000000000
+      internalID: -702400952727013789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Argentina
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 773
+        width: 291
+        height: 628
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629e03418b1939260800000000000000
+      internalID: 7103181257092163878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: South Africa
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 663
+        width: 378
+        height: 477
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fda870b41a850940800000000000000
+      internalID: 5261763561116970485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Congo
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1116
+        width: 344
+        height: 356
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea611f3df0889540800000000000000
+      internalID: 5014900010250234597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: India
+      rect:
+        serializedVersion: 2
+        x: 2382
+        y: 677
+        width: 398
+        height: 572
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dba149de4b406bc0800000000000000
+      internalID: -3791948084221465644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Siam
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 1133
+        width: 262
+        height: 358
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207db8e17d3eb1750800000000000000
+      internalID: 6276861018740872962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Indonesia
+      rect:
+        serializedVersion: 2
+        x: 3562
+        y: 859
+        width: 361
+        height: 307
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb628f45b740df310800000000000000
+      internalID: 1440312383581464255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eastern Australia
+      rect:
+        serializedVersion: 2
+        x: 4211
+        y: 888
+        width: 330
+        height: 506
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5646f130a8ae88ce0800000000000000
+      internalID: -1402613405447134107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Madagascar
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 265
+        width: 177
+        height: 289
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a395dfdd6d4645e50800000000000000
+      internalID: 6797168611619068218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: East Africa
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 454
+        width: 378
+        height: 567
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a14a43b807295c0800000000000000
+      internalID: -4210178958452057590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Western Australia
+      rect:
+        serializedVersion: 2
+        x: 2962
+        y: 466
+        width: 384
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6b40a0739f767d0800000000000000
+      internalID: -2925095418167249170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
